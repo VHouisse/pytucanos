@@ -1,0 +1,6 @@
+[env]
+METISDIR = "/share/hpc5_devel/coda/VictorH/CONDA/envs/tucanos_dev"
+SCOTCH_DIR = "/share/hpc5_devel/coda/VictorH/CONDA/envs/tucanos_dev"
+LIBCLANG_PATH = "/share/hpc5_devel/coda/VictorH/CONDA/envs/tucanos_dev/lib"
+CPATH = "/share/hpc5_devel/coda/VictorH/CONDA/envs/tucanos_dev/include:/share/hpc5_devel/coda/VictorH/CONDA/envs/tucanos_dev/lib/gcc/x86_64-conda-linux-gnu/13.3.0/include"
+RUSTFLAGS="-L /share/hpc5_devel/coda/VictorH/CONDA/envs/tucanos_dev/lib"
